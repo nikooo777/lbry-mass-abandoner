@@ -1,0 +1,8 @@
+{
+  "name": "lbry-mass-abandoner",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
